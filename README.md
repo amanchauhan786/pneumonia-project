@@ -92,9 +92,9 @@ Link to the dataset on Kaggle
 🌐 More Projects
 Check out some of my other deployed applications:
 
-LegalKH: Live Demo
+LegalKH: [Live Demo](https://legalkh.onrender.com/)
 
-Dicmicro: Live Demo
+Dicmicro: [Live Demo](https://dicmicro.onrender.com/)
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
